@@ -6,7 +6,7 @@ This project is a personal website showcasing the portfolio of Steve Pegouen. It
 
 ## Features
 - **Navigation**: Simple menu with links to different sections of the website.
-- **About Section**: Biography and skills of Steve Pegouen.
+- **About Section**: Biography and skills.
 - **Services Section**: Overview of provided services such as web design, web development, and SEO security.
 - **Responsive Design**: Fully optimized for different screen sizes using CSS media queries.
 
@@ -14,3 +14,4 @@ This project is a personal website showcasing the portfolio of Steve Pegouen. It
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
+   ```
