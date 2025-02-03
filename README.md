@@ -11,7 +11,11 @@ This project is a personal website showcasing the portfolio of Steve. It feature
 - **Responsive Design**: Fully optimized for different screen sizes using CSS media queries.
 
 ## How to Use
-1. Clone this repository:
+ Clone this repository:
    ```bash
    git clone https://github.com/yourusername/yourrepository.git
    ```
+## Technologies Used
+- HTML
+- CSS
+- Font Awesome (for icons)
