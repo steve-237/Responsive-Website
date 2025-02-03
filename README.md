@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/bb9724b0-16bb-4791-8f1f-117df10551b0)
 
 ## Description
-This project is a personal website showcasing the portfolio of Steve Pegouen. It features a responsive design with various sections, including Home, About, Services, Team, and Contact Us.
+This project is a personal website showcasing the portfolio of Steve. It features a responsive design with various sections, including Home, About, Services, Team, and Contact Us.
 
 ## Features
 - **Navigation**: Simple menu with links to different sections of the website.
